@@ -12,14 +12,14 @@ Repositório com os exercícios, projetos e anotações desenvolvidos durante o 
 
 <h2>📋 Tópicos abordados</h2>
 <ul>
-<li> Fundamentos de Qualidade e Desenvolvimento de Software </li>
-<li> Desenvolvimento moderno de software </li>
-<li> Introdução ao Mercado de Qualidade de Software </li>
-<li> Metodologias Ágeis e Ciclo de Desenvolvimento de Software </li>
+<li> ✅ Fundamentos de Qualidade e Desenvolvimento de Software </li>
+<li> ✅ Desenvolvimento moderno de software </li>
+<li> ✅ Introdução ao Mercado de Qualidade de Software </li>
+<li> ✅ Metodologias Ágeis e Ciclo de Desenvolvimento de Software </li>
 <li> Qualidade de Software e Testes em:</li>
 <ul>
-    <li> Projetos Java</li>
-    <li> Node.js com Typescript</li>
-    <li> Aplicações Front-End</li>
-    <li> Apps Nativos (Android e IOS)</li>
+    <li> [ ] Projetos Java</li>
+    <li> [ ] Node.js com Typescript</li>
+    <li> [ ] Aplicações Front-End</li>
+    <li> [ ] Apps Nativos (Android e IOS)</li>
 </ul>
