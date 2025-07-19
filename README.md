@@ -18,7 +18,7 @@ Repositório com os exercícios, projetos e anotações desenvolvidos durante o 
 <li> ✅ Metodologias Ágeis e Ciclo de Desenvolvimento de Software </li>
 <li> Qualidade de Software e Testes em:</li>
 <ul>
-    <li> [ ] Projetos Java</li>
+    <li> ✅ Projetos Java</li>
     <li> [ ] Node.js com Typescript</li>
     <li> [ ] Aplicações Front-End</li>
     <li> [ ] Apps Nativos (Android e IOS)</li>
