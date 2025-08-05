@@ -1,0 +1,39 @@
+{
+  "name": "api-dio-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "cross-env NODE_ENV=test jest",
+    "build": "tsc",
+    "dev": "ts-node-dev --respawn --transpile-only src/index.ts",
+    "typeorm": "ts-node ./node_modules/typeorm/cli -d ./src/data-source.ts",
+    "migration:run": "npm run typeorm -- migration:run",
+    "migration:generate": "npm run typeorm -- migration:generate",
+    "test:unit": "jest"
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "cross-env": "^7.0.3",
+    "@jest/globals": "^30.0.5",
+    "@types/express": "^5.0.3",
+    "@types/jest": "^30.0.0",
+    "@types/node": "^24.1.0",
+    "@types/uuid": "^10.0.0",
+    "jest": "^30.0.5",
+    "ts-jest": "^29.4.0",
+    "ts-node": "^10.9.2",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "reflect-metadata": "^0.2.2",
+    "sqlite3": "^5.1.7",
+    "typeorm": "^0.3.25",
+    "uuid": "^11.1.0"
+  }
+}
