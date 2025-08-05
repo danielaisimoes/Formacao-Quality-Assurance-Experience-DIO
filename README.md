@@ -1,7 +1,7 @@
 <h1 align="center"> 📖 Formacao-Quality-Assurance-Experience-DIO </h1>
 
 <p align="center">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Curso_em_andamento-8A2BE2?style=for-the-badge&color=DCD21E">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Finalizado-%236DBB54?style=for-the-badge">
 </p>
 
 <p align="center">
